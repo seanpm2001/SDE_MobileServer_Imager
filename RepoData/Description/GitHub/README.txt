@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🇸-🇩-🇪📱️🌐️💾️ The server imager for SDE MobileServer, allowing you to reimage your server from your desktop computer to your mobile computer.
